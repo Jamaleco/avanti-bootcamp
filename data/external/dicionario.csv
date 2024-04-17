@@ -1,0 +1,5 @@
+variavel,descricao,tipo,subtipo
+subject,Label do individuo no experimento,qualitativa,nominal
+attention,Atenção do individuo durante o experimento,qualitativa,nominal
+solutions,Numero de solucoes fornecidas pelo individuo,quantitativa,discreta
+score,Pontuacao do individuo,quantitativa,continua
